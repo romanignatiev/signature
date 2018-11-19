@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Signer": {
+      "commandName": "Project",
+      "commandLineArgs": "-i digest.txt --signer gost.cert.pem --inkey  gost.key.pem -p 1234"
+    }
+  }
+}
